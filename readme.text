@@ -1,0 +1,13 @@
+Automated cookie clicker game. The cookie clicker game is an interesting and addictive game as well.
+The more you people, the more upgrades you can buy, but as you can see this will consumer much of the user's time.
+So, it got me thinking, why don't I use Python to create a bot that will play the game automatically, and purchase all upgrades as the user does manually.
+This is sought a cheat for programming geeks.😊
+This fun project was built using the selenium webdriver module in python.
+The selenium webdriver is mostly used for automation and testing.
+The selenium webdriver can open your favorite browser automatically, as you do.
+The selenium webdriver is used to scrape relevant HTML elements on the cookie clicker website, certain conditions are tested, and the game playing and purchasing of upgrades starts automatically.
+The purchasing of upgrades is done every 5 secs, but you can change it if you like.
+The bot is programmed to quit the game after 5 minutes, again you can change it if you like.
+You can be the best cookie clicker player with most powerful upgrades without touching the game.😊
+Run this bot to see how interesting it is to play cookie clicker automatically.
+
